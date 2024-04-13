@@ -3,7 +3,7 @@
 
 [![sntkn's GitHub stats](https://github-readme-stats.vercel.app/api?username=sntkn&theme=vue-dark&show_icons=true)](https://github.com/sntkn)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntkn&theme=vue-dark&show_icons=true&layout=compact&count_private=true)](https://github.com/sntkn)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sntkn&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/sntkn)
 
 <!--
 **sntkn/sntkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
